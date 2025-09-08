@@ -57,5 +57,5 @@
 
 ---
 
-<p align="center">💡 Always learning, always improving</p>
+<h3 align="center"><b>💡 Always learning, always improving<b></h2>
 
