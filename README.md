@@ -36,10 +36,16 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohanidangi4&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohanidangi4&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Rohanidangi4&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohanidangi4&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+
+</div>
+
 
 ---
 
