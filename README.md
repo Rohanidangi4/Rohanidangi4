@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm <strong>Rohani Dangi</strong></h1>
-<h3 align="center">Frontend Developer | React | UI/UX | Responsive Design</h3>
+<h3 align="center">Frontend Developer | React | Responsive Design</h3>
 
 <p align="center">
   <a href="https://rohani-dangi-portfolio.netlify.app" target="_blank">🌐 Portfolio</a> •
