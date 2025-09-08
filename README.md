@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm <strong>Rohani Dangi</strong></h1>
-<h3 align="center">Frontend Developer | React | UI/UX | Responsive Design</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
   <a href="https://rohani-dangi-portfolio.netlify.app" target="_blank">🌐 Portfolio</a> •
@@ -29,6 +29,8 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge" alt="PHP">
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&style=for-the-badge" alt="WordPress">
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&style=for-the-badge" alt="MySQL">
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" alt="GitHub">
 </p>
 
 ---
